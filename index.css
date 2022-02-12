@@ -11,7 +11,7 @@ padding-left: 40%;
 
 }
 #header p{
-    padding: 1rem;
+    padding: 2rem;
 }
 #img-div{
     padding: 5rem;
@@ -45,6 +45,9 @@ padding-left: 40%;
 }
 figcaption{
     margin-top: 1rem;
+}
+h3{
+    padding-bottom:5rem;
 }
 @media screen and (max-width: 715px) {
     #header{
